@@ -1,0 +1,19 @@
+body {
+    background: url(../images/background.png);
+    background-size: cover;
+    min-height: 100vh;
+}
+body::-webkit-scrollbar {
+    display: none;
+}
+a {
+    color: white;
+    text-decoration: none;
+}
+a:hover {
+    color: white;
+    font-weight: bold;
+}
+darkhover:hover {
+    color: rgb(46, 46, 46)!important;
+}
